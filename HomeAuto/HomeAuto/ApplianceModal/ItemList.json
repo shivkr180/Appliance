@@ -1,0 +1,45 @@
+{
+    "DEVICES": [
+        {
+            "applianceId":0,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":1,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":2,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":3,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":4,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":5,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":6,
+            "applianceType":1,
+            "isStatusOn":false
+        },
+        {
+            "applianceId":7,
+            "applianceType":1,
+            "isStatusOn":false
+        }
+    ]
+    
+}
